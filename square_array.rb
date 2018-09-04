@@ -1,4 +1,4 @@
 def square_array(array)
- array.each do ** 2
+new_arr = []
   end
 end
